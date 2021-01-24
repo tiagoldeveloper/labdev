@@ -3,7 +3,10 @@
 <p align="center">Simples aplicativo para estudo de flutter</p>
 
 
- 
+
+
+<h2>Ignora alguns comentarios, foi feito somente para meus estudos.<h2>
+
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
