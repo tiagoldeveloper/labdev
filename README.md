@@ -1,16 +1,31 @@
-# labdev
+<h1 align="center">Aplicativo de venda de produtos</h1>
 
-Labdev
+<p align="center">Simples aplicativo para estudo de flutter</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h2>Ignora alguns comentarios, foi feito somente para meus estudos.<h2>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+- Flutter
+- Firebase
+- Provider
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Autor
+
+<a href="https://media-exp1.licdn.com/dms/image/C4D03AQFi1T6CcqeAHQ/profile-displayphoto-shrink_200_200/0/1572101384391?e=1613606400&v=beta&t=uSf-zZbyhIyh5VDmqcRjuicxUhe5tRmJBxueUp9-WeI">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFi1T6CcqeAHQ/profile-displayphoto-shrink_200_200/0/1572101384391?e=1613606400&v=beta&t=uSf-zZbyhIyh5VDmqcRjuicxUhe5tRmJBxueUp9-WeI" width="100px;" alt="Tiago Lima"/>
+ <br />
+ <sub><b>Tiago Lima</b></sub>
+ </a>
+
+
+Feito por Tiago Lima 👋🏽 Entre em contato!
+
+<a href="https://www.linkedin.com/in/tiago-santos-de-lima-20941b11b">LinkedIn</a>
+
+<a href="tiago.ldeveloper@gmail.com">Gmail</a>
+
+
+Obs: frontend(angular) está em desenvolvimento.
