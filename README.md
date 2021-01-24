@@ -1,4 +1,4 @@
-<h1 align="center">App para Venda de produtos</h1>
+<h1 align="center">Aplicativo de venda de produtos</h1>
 
 <p align="center">Simples aplicativo para estudo de flutter</p>
 
