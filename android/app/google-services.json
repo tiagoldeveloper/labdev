@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35855268564",
+    "project_id": "labdev-b441a",
+    "storage_bucket": "labdev-b441a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35855268564:android:194e5292c8578c1d3f1941",
+        "android_client_info": {
+          "package_name": "br.com.labdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35855268564-ea11fd3131ghsjd57nmk64b30ds67sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAot8JB0lU5_rpYppJ0s2tl95lGri8cWF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35855268564-ea11fd3131ghsjd57nmk64b30ds67sng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
