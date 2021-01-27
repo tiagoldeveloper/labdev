@@ -28,6 +28,7 @@ dependencies:
   firebase_storage: ^4.0.1
   firebase_auth: ^0.18.1+2
   provider: any
+  carousel_pro: ^1.0.0
 
 
 

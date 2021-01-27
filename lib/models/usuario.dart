@@ -23,6 +23,8 @@ class Usuario {
   /// recupera a instancia do firestore
   DocumentReference get firestoreRef =>  FirebaseFirestore.instance.doc('users/$id');
 
+  CollectionReference get cartRefence => firestoreRef.collection('cart');
+
   /// salva no firebase nome e email.
   Future<void> salvaData() async {
     await firestoreRef.set(toMap());
